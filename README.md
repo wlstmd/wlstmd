@@ -20,7 +20,7 @@
 ## 📚 Ready now
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-C-red?style-flat-square&logo=ClogoColor=white"
+        src="https://img.shields.io/badge/-C-red?style-flat-square&logo=C&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
@@ -28,32 +28,32 @@
 ## 📚 Learning now
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-Linux-informational?style-flat-square&logo=LinuxlogoColor=white"
+        src="https://img.shields.io/badge/-Linux-informational?style-flat-square&logo=Linux&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-C++-green?style-flat-square&logo=C++logoColor=white"
+        src="https://img.shields.io/badge/-C++-green?style-flat-square&logo=C++&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-amazonaws-critical?style-flat-square&logo=amazonawslogoColor=white"
+        src="https://img.shields.io/badge/-amazonaws-critical?style-flat-square&logo=amazonaws&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-html5-yellow?style-flat-square&logo=html5logoColor=white"
+        src="https://img.shields.io/badge/-html5-yellow?style-flat-square&logo=html5&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-css3-important?style-flat-square&logo=css3logoColor=white"
+        src="https://img.shields.io/badge/-css3-important?style-flat-square&logo=css3&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-javascript-success?style-flat-square&logo=javascriptlogoColor=white"
+        src="https://img.shields.io/badge/-javascript-success?style-flat-square&logo=javascript&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
