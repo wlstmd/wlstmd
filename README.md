@@ -67,17 +67,17 @@
 
 <a href="https://twitter.com/jinseung0327">
     <img 
-        src="https://img.shields.io/badge/-Twitter-inactive?stylefat&logo=Twitter&link=https://twitter.com/jinseung0327/"
+        src="https://img.shields.io/badge/-Twitter-inactive?stylefat&logo=Twitter&link=https://twitter.com/jinseung0327/&logoColor=white"
         style="height : auto; margin-left : 100px; margin-right : 100px;"/>
 </a>
 <a href="https://discordapp.com/users/648462033775362061">
     <img 
-        src="https://img.shields.io/badge/-Discord-blueviolet?stylefat&logo=Discord&link=https://discordapp.com/users/648462033775362061"
+        src="https://img.shields.io/badge/-Discord-blueviolet?stylefat&logo=Discord&link=https://discordapp.com/users/648462033775362061&logoColor=white"
         style="height : auto; margin-left : 100px; margin-right : 100px;"/>
 </a>
 <a href="https://www.facebook.com/profile.php?id=100053598187971&mibextid=ZbWKwL">
     <img 
-        src="https://img.shields.io/badge/-facebook-blue?stylefat&logo=facebook&link=https://www.facebook.com/profile.php?id=100053598187971&mibextid=ZbWKwL"
+        src="https://img.shields.io/badge/-facebook-blue?stylefat&logo=facebook&link=https://www.facebook.com/profile.php?id=100053598187971&mibextid=ZbWKwL&logoColor=white"
         style="height : auto; margin-left : 100px; margin-right : 100px;"/>
 </a>
 
