@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinseung0327&count_bg=%23514FB4&title_bg=%233B34C4&icon=github.svg&icon_color=%23ABA0D0&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jinseung's%20Github&fontSize=100&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Jinseung's%20GitHub&fontSize=70&animation=scaleIn)
 
 ## 📚 About me
 <h3 align="center">I'm a student at the Gyeongbuk Software High School And I'm 17 years old.</h3>
