@@ -5,7 +5,7 @@
 <h3 align="center">I'm moving towards my goal!</h3>
 
 - 🌱 I’m currently learning : **C, C++, Linux, AWS, HTML, CSS, Javascript**
-- ✨ My hobby : Watch a movie, algorithm Problem Solving
+- ✨ My hobby : Watch a movie, algorithm Problem Solving(PS)
 - 🧨 My desired job : SoftWare developer
 - 📝 Certificate :
 - 📫 Email : **jinseung0327@gmail.com**
