@@ -57,6 +57,11 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<a href="">
+    <img 
+        src="https://img.shields.io/badge/-Java-9cf?style-flat-square&logo=html5&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 ## 📚 Contact 
 <a href="https://www.instagram.com/wlstmd_/">
@@ -81,11 +86,6 @@
         style="height : auto; margin-left : 100px; margin-right : 100px;"/>
 </a>
 
-<a href="">
-    <img 
-        src="https://img.shields.io/badge/-Java-9cf?style-flat-square&logo=html5&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 ## 📚 Stats
 
