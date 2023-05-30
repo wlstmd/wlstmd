@@ -61,7 +61,7 @@
 ## 📚 Contact 
 <a href="https://www.instagram.com/wlstmd_/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/wlstmd_/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/wlstmd_/&logoColor=white"
         style="height : auto; margin-left : 100px; margin-right : 100px;"/>
 </a>
 
