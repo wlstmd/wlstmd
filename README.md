@@ -81,6 +81,12 @@
         style="height : auto; margin-left : 100px; margin-right : 100px;"/>
 </a>
 
+<a href="">
+    <img 
+        src="https://img.shields.io/badge/-Java-9cf?style-flat-square&logo=html5&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 ## 📚 Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinseung0327&show_icons=true&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jinseung)](https://solved.ac/jinseung) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinseung0327&theme=tokyonight)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinseung0327&layout=compact&theme=tokyonight)
