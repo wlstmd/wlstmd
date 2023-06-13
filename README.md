@@ -35,7 +35,7 @@
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-C++-green?style-flat-square&log=c++&oColor=white"
+        src="https://img.shields.io/badge/-c++-informational?style-flat-square&logo=c++&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
