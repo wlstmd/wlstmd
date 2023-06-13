@@ -35,12 +35,12 @@
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-c++-informational?style-flat-square&logo=cplusplus&oColor=white"
+        src="https://img.shields.io/badge/-C++-informational?style-flat-square&logo=cplusplus&oColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-AMAZONAWS-critical?style-flat-square&logo=amazonaws&logoColor=white"
+        src="https://img.shields.io/badge/-AmazonAWS-critical?style-flat-square&logo=amazonaws&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
