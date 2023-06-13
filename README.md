@@ -40,27 +40,27 @@
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-amazonaws-critical?style-flat-square&logo=amazonaws&logoColor=white"
+        src="https://img.shields.io/badge/-AMAZONAWS-critical?style-flat-square&logo=amazonaws&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-nodejs-9cf?style-flat-square&logo=nodedotjs&logoColor=white"
+        src="https://img.shields.io/badge/-NodeJs-9cf?style-flat-square&logo=nodedotjs&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-html5-red?style-flat-square&logo=html5&logoColor=white"
+        src="https://img.shields.io/badge/-HTML5-red?style-flat-square&logo=html5&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-css3-informational?style-flat-square&logo=css3&logoColor=white"
+        src="https://img.shields.io/badge/-CSS3-informational?style-flat-square&logo=css3&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-javascript-yellow?style-flat-square&logo=javascript&logoColor=black"
+        src="https://img.shields.io/badge/-Javascript-yellow?style-flat-square&logo=javascript&logoColor=black"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
