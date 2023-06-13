@@ -45,7 +45,7 @@
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-html5-yellow?style-flat-square&logo=html5&logoColor=white"
+        src="https://img.shields.io/badge/-html5-red?style-flat-square&logo=html5&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
