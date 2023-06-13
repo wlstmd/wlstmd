@@ -69,7 +69,11 @@
         src="https://img.shields.io/badge/-Java-inactive?style-flat-square&logo=html5&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
+<a href="">
+    <img 
+        src="https://img.shields.io/badge/-MySQL-blue?style-flat-square&logo=MySQL&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 ## 📚 Contact 
 <a href="https://www.instagram.com/wlstmd_/">
     <img 
