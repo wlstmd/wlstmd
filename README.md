@@ -50,7 +50,7 @@
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-css3-important?style-flat-square&logo=css3&logoColor=white"
+        src="https://img.shields.io/badge/-css3-blue?style-flat-square&logo=css3&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
@@ -61,7 +61,7 @@
 
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-Java-9cf?style-flat-square&logo=html5&logoColor=white"
+        src="https://img.shields.io/badge/-Java-inactive?style-flat-square&logo=html5&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
