@@ -50,7 +50,7 @@
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-css3-blue?style-flat-square&logo=css3&logoColor=white"
+        src="https://img.shields.io/badge/-css3-informational?style-flat-square&logo=css3&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
