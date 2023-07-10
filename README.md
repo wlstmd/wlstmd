@@ -15,7 +15,7 @@
 
 
 
-<a href=""> <img src="https://i.namu.wiki/i/y1SR3qiYSY_4agZ8oP0AW4nrCcqfigMOZduPVoeKuN91xXmjWU-bf-mjG2OYFqQ9aM4usbfFPGrMqMkLzfuJii7Sx3DKlnm3g7gv0KRYQk6KtJvIdNyCt08O-1FLtcBxS9KKosbehlCRGNux0gSLcw.webp"></a>
+<a href=""> <img src="https://namu.wiki/jump/JSU95bxIH3sOS8CBKw3tTvfbz9gLKrqXw%2FxrUrP63tlKceauZWenVtwSofar6V9o%2BU6iIYLIEDoJto4ldQ%2BSwWrdpAKd6KXJoXj4m5ttINY%3D"></a>
 <p align="left">
 </p>
 
