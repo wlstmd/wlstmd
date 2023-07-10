@@ -18,6 +18,13 @@
 <a href="https://namu.wiki/jump/JSU95bxIH3sOS8CBKw3tTvfbz9gLKrqXw%2FxrUrP63tlKceauZWenVtwSofar6V9o%2BU6iIYLIEDoJto4ldQ%2BSwWrdpAKd6KXJoXj4m5ttINY%3D">
 </a>
 
+
+<a href="">
+    <img 
+        src="https://img.shields.io/badge/-C-informational?style-flat-square&logo=c&oColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 <a href="">
     <img 
         src="https://img.shields.io/badge/-C++-informational?style-flat-square&logo=cplusplus&oColor=white"
