@@ -14,7 +14,7 @@
 - 🏫 the school where I'm attending : GBSW
 
 
-## 📚 Ready now
+## 📚 Tech Stacks
 
 
 <a href="">
@@ -30,7 +30,7 @@
 </a>
 
 
-## 📚 Learning now
+
 <a href="">
     <img 
         src="https://img.shields.io/badge/-Linux-informational?style-flat-square&logo=Linux&logoColor=white"
