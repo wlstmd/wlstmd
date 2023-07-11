@@ -33,7 +33,7 @@
 
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-Linux-informational?style-flat-square&logo=Linux&logoColor=white"
+        src="https://img.shields.io/badge/-Linux-oragne?style-flat-square&logo=Linux&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
