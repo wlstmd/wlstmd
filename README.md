@@ -39,12 +39,12 @@
 
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-AmazonAWS-critical?style-flat-square&logo=amazonaws&logoColor=black"
+        src="https://img.shields.io/badge/-AmazonAWS-critical?style-flat-square&logo=amazonaws&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-NodeJs-yellow?style-flat-square&logo=nodedotjs&logoColor=white"
+        src="https://img.shields.io/badge/-NodeJs-yellow?style-flat-square&logo=nodedotjs&logoColor=black"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
