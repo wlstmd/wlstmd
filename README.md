@@ -39,7 +39,7 @@
 
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-AmazonAWS-critical?style-flat-square&logo=amazonaws&logoColor=white"
+        src="https://img.shields.io/badge/-AmazonAWS-critical?style-flat-square&logo=amazonaws&logoColor=black"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
