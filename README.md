@@ -11,7 +11,8 @@
 - 🧨 My desired job : SoftWare developer
 - 📝 Certificate :
 - 📫 Email : **jinseung0327@gmail.com**
-- 🏫 the school where I'm attending : GBSW
+- 🏫 the school where I'm attending :
+<img src="https://namu.wiki/jump/EMc4mBmNLebPzldeOchIi%2BKJku03MsiEcaa7wxeLZT36bT2Q123MjQbXdxVDlVCj7WZv3d5ONhiMZjZJ4ANOize9%2Be9lmZNKsrtmU4%2F%2F3Rk%3D">
 
 
 ## 📚 Tech Stacks
