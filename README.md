@@ -25,7 +25,7 @@
 
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-Python-blue?style-flat-square&logo=python&oColor=yellow"
+        src="https://img.shields.io/badge/-Python-blue?style-flat-square&logo=python&oColor"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
