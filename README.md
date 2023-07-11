@@ -12,7 +12,7 @@
 - 📝 Certificate :
 - 📫 Email : **jinseung0327@gmail.com**
 - 🏫 the school where I'm attending :
-<img src="https://namu.wiki/jump/EMc4mBmNLebPzldeOchIi%2BKJku03MsiEcaa7wxeLZT36bT2Q123MjQbXdxVDlVCj7WZv3d5ONhiMZjZJ4ANOize9%2Be9lmZNKsrtmU4%2F%2F3Rk%3D">
+<img src="https://i.namu.wiki/i/ZTTMDOlXIm-Bw67plm9vyH0YtQ1b_iAwjTTNh_I3orYIITrLfAkDg4j5905X5QGowcM30eS2eTAVAxJTEvT5-7K8OJdgV_FL-C0j43vzgI2dA-AL_V68P9SpXs9tCmlq-7Jrpy1cWcaDiSylajGIEQ.webp">
 
 
 ## 📚 Tech Stacks
