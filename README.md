@@ -20,71 +20,71 @@
 
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-C-blue?style-flat-square&logo=c&oColor=white" width="50"
+        src="https://img.shields.io/badge/-C-blue?style-flat-square&logo=c&oColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-C++-critical?style-flat-square&logo=cplusplus&oColor=white" width="75"
+        src="https://img.shields.io/badge/-C++-critical?style-flat-square&logo=cplusplus&oColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-Python-9cf?style-flat-square&logo=python&oColor=yellow" width="75"
+        src="https://img.shields.io/badge/-Python-9cf?style-flat-square&logo=python&oColor=yellow"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-Linux-white?style-flat-square&logo=Linux&logoColor=yellow" width="75"
+        src="https://img.shields.io/badge/-Linux-white?style-flat-square&logo=Linux&logoColor=yellow" 
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-AmazonAWS-critical?style-flat-square&logo=amazonaws&logoColor=white" width="75"
+        src="https://img.shields.io/badge/-AmazonAWS-critical?style-flat-square&logo=amazonaws&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-NodeJs-yellow?style-flat-square&logo=nodedotjs&logoColor=black" width="75"
+        src="https://img.shields.io/badge/-NodeJs-yellow?style-flat-square&logo=nodedotjs&logoColor=black"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <br>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-Express-black?style-flat-square&logo=express&logoColor=white" width="75"
+        src="https://img.shields.io/badge/-Express-black?style-flat-square&logo=express&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-HTML5-red?style-flat-square&logo=html5&logoColor=white" width="75"
+        src="https://img.shields.io/badge/-HTML5-red?style-flat-square&logo=html5&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-CSS3-informational?style-flat-square&logo=css3&logoColor=white" width="75"
+        src="https://img.shields.io/badge/-CSS3-informational?style-flat-square&logo=css3&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-Javascript-yellow?style-flat-square&logo=javascript&logoColor=black" width="75"
+        src="https://img.shields.io/badge/-Javascript-yellow?style-flat-square&logo=javascript&logoColor=black"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-Java-inactive?style-flat-square&logo=java&logoColor=white" width="75"
+        src="https://img.shields.io/badge/-Java-inactive?style-flat-square&logo=java&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-MySQL-blue?style-flat-square&logo=MySQL&logoColor=white" width="75"
+        src="https://img.shields.io/badge/-MySQL-blue?style-flat-square&logo=MySQL&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
@@ -92,23 +92,23 @@
 ## 📚 Contact 
 <a href="https://www.instagram.com/wlstmd_/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/wlstmd_/&logoColor=white" width="50"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/wlstmd_/&logoColor=white"
         style="height : auto; margin-left : 100px; margin-right : 100px;"/>
 </a>
 
 <a href="https://twitter.com/jinseung0327">
     <img 
-        src="https://img.shields.io/badge/-Twitter-inactive?stylefat&logo=Twitter&link=https://twitter.com/jinseung0327/&logoColor=blue" width="50"
+        src="https://img.shields.io/badge/-Twitter-inactive?stylefat&logo=Twitter&link=https://twitter.com/jinseung0327/&logoColor=blue"
         style="height : auto; margin-left : 100px; margin-right : 100px;"/>
 </a>
 <a href="https://discordapp.com/users/648462033775362061">
     <img 
-        src="https://img.shields.io/badge/-Discord-blueviolet?stylefat&logo=Discord&link=https://discordapp.com/users/648462033775362061&logoColor=white" width="50"
+        src="https://img.shields.io/badge/-Discord-blueviolet?stylefat&logo=Discord&link=https://discordapp.com/users/648462033775362061&logoColor=white"
         style="height : auto; margin-left : 100px; margin-right : 100px;"/>
 </a>
 <a href="https://www.facebook.com/profile.php?id=100053598187971&mibextid=ZbWKwL">
     <img 
-        src="https://img.shields.io/badge/-facebook-blue?stylefat&logo=facebook&link=https://www.facebook.com/profile.php?id=100053598187971&mibextid=ZbWKwL&logoColor=white" width="50"
+        src="https://img.shields.io/badge/-facebook-blue?stylefat&logo=facebook&link=https://www.facebook.com/profile.php?id=100053598187971&mibextid=ZbWKwL&logoColor=white"
         style="height : auto; margin-left : 100px; margin-right : 100px;"/>
 </a>
 
