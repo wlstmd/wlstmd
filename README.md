@@ -20,7 +20,7 @@
 
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-C-blue?style-flat-square&logo=c&oColor=white" width="1000"
+        src="https://img.shields.io/badge/-C-blue?style-flat-square&logo=c&oColor=white" width="100"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
