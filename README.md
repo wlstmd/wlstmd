@@ -92,7 +92,7 @@
 
 <a href="https://twitter.com/jinseung0327">
     <img 
-        src="https://img.shields.io/badge/-Twitter-inactive?stylefat&logo=Twitter&link=https://twitter.com/jinseung0327/&logoColor=white"
+        src="https://img.shields.io/badge/-Twitter-inactive?stylefat&logo=Twitter&link=https://twitter.com/jinseung0327/&logoColor=blue"
         style="height : auto; margin-left : 100px; margin-right : 100px;"/>
 </a>
 <a href="https://discordapp.com/users/648462033775362061">
