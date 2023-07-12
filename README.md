@@ -27,7 +27,7 @@
 
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-C++-critical?style-flat-square&logo=cplusplus&oColor=white" width="70"
+        src="https://img.shields.io/badge/-C++-critical?style-flat-square&logo=cplusplus&oColor=white" width="75"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
