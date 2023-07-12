@@ -12,7 +12,7 @@
 - 📝 Certificate :
 - 📫 Email : **jinseung0327@gmail.com**
 - 🏫 the school where I'm attending :
-<img src="https://i.namu.wiki/i/ZTTMDOlXIm-Bw67plm9vyH0YtQ1b_iAwjTTNh_I3orYIITrLfAkDg4j5905X5QGowcM30eS2eTAVAxJTEvT5-7K8OJdgV_FL-C0j43vzgI2dA-AL_V68P9SpXs9tCmlq-7Jrpy1cWcaDiSylajGIEQ.webp">
+<img src="https://file.gamejob.co.kr/net/Corp/CoImage/LogoView?FN=2021\6\GJ_CoLogo_34814220.jpg">
 
 
 ## 📚 Tech Stacks
