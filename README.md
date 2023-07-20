@@ -115,5 +115,5 @@
 
 ## 📚 Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinseung0327&show_icons=true&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jinseung)](https://solved.ac/jinseung) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinseung0327&theme=tokyonight)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinseung0327&layout=compact&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinseung0327&show_icons=true&theme=tokyonight) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinseung0327&theme=tokyonight)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinseung0327&layout=compact&theme=tokyonight)
 
