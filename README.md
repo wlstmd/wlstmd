@@ -6,7 +6,7 @@
 <h3 align="center">I'm a student at the Gyeongbuk Software High School And I'm 17 years old.</h3>
 <h3 align="center">"I'm moving towards my goal!"</h3>
 
-- 🌱 I’m currently learning : **C++, Linux, AWS**
+- 🌱 I’m currently learning : **C++, Linux, AWS, MySQL**
 - ✨ My hobby : Watch a movie, algorithm Problem Solving(PS)
 - 🧨 My desired job : SoftWare developer
 - 📝 Certificate :
