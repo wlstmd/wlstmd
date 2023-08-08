@@ -103,12 +103,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a href="">
-    <img 
-        src="https://img.shields.io/badge/-SQL-Server-white?style-flat-square&logo=#CC2927&logoColor=red" 
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
 
 ## 📚 Contact 
 
