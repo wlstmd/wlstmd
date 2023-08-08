@@ -98,7 +98,7 @@
 
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-SQLServer-white?style-flat-square&logo=#CC2927&logoColor=red" 
+        src="https://img.shields.io/badge/-SQLServer-white?style-flat-square&logo=#CC2927&logoColor=black" 
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
