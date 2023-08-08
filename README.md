@@ -12,6 +12,9 @@
 - 📝 Certificate :
 - 📫 Email : **jinseung0327@gmail.com**
 - 🏫 the school where I'm attending
+
+
+
 <img src="https://i.namu.wiki/i/Bh0XO0kBIcr5LfuRf_dNnNEW4FyiO8KHJxbVv-khoBvSd-x2ODx8xcGEL1hq2-vxXArOwJY6oeswWiFvR5T1PzVaSJWxLpJPPIBKHJ497W-jzCyqg93nIjgtce-xWLESyxtAl-GOdaM1EW9IP1zx0w.webp">
   
 
