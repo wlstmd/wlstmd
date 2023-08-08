@@ -11,7 +11,7 @@
 - 🧨 My desired job : SoftWare developer
 - 📝 Certificate :
 - 📫 Email : **jinseung0327@gmail.com**
-- 🏫 the school where I'm attending
+- 🏫 the school where I'm attending : GBSW
 
 
 
@@ -98,7 +98,7 @@
 
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-SQLServer-white?style-flat-square&logo=microsoftsqlserver&logoColor=black" 
+        src="https://img.shields.io/badge/-SQL Server-white?style-flat-square&logo=microsoftsqlserver&logoColor=black" 
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
