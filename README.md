@@ -15,26 +15,13 @@
 
 
 
-## 📚 Tool
+## 📚 Ready Now
 
 
 
 <a href="">
     <img 
         src="https://img.shields.io/badge/-C-blue?style-flat-square&logo=c&oColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-
-<a href="">
-    <img 
-        src="https://img.shields.io/badge/-C++-critical?style-flat-square&logo=cplusplus&oColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<a href="">
-    <img 
-        src="https://img.shields.io/badge/-Python-9cf?style-flat-square&logo=python&oColor=yellow"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
@@ -67,16 +54,8 @@
         src="https://img.shields.io/badge/-HTML5-red?style-flat-square&logo=html5&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="">
-    <img 
-        src="https://img.shields.io/badge/-CSS3-informational?style-flat-square&logo=css3&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="">
-    <img 
-        src="https://img.shields.io/badge/-Javascript-yellow?style-flat-square&logo=javascript&logoColor=black"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+
+
 
 <a href="">
     <img 
@@ -96,6 +75,31 @@
 </a>
 
 
+## 📚 Learning Now
+
+<a href="">
+    <img 
+        src="https://img.shields.io/badge/-C++-critical?style-flat-square&logo=cplusplus&oColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+<a href="">
+    <img 
+        src="https://img.shields.io/badge/-Python-9cf?style-flat-square&logo=python&oColor=yellow"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+<a href="">
+    <img 
+        src="https://img.shields.io/badge/-Javascript-yellow?style-flat-square&logo=javascript&logoColor=black"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+<a href="">
+    <img 
+        src="https://img.shields.io/badge/-CSS3-informational?style-flat-square&logo=css3&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 ## 📚 Contact 
 
