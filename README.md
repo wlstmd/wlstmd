@@ -108,6 +108,13 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<br>
+<a href="">
+    <img 
+        src="https://img.shields.io/badge/-TypeScript-blue?style-flat-square&logo=typescript&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 ## 📚 Contact 
 
 
@@ -133,12 +140,7 @@
         src="https://img.shields.io/badge/-facebook-blue?stylefat&logo=facebook&link=https://www.facebook.com/profile.php?id=100053598187971&mibextid=ZbWKwL&logoColor=white"
         style="height : auto; margin-left : 100px; margin-right : 100px;"/>
 </a>
-<br>
-<a href="">
-    <img 
-        src="https://img.shields.io/badge/-TypeScript-blue?style-flat-square&logo=typescript&oColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+
 
 
 ## 📚 Stats
