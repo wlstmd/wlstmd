@@ -108,7 +108,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<br>
 <a href="">
     <img 
         src="https://img.shields.io/badge/-TypeScript-blue?style-flat-square&logo=typescript&logoColor=white"
