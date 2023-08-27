@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning : **C++, Linux, AWS, NestJS**
 - ✨ My hobby : Watch a movie, algorithm Problem Solving(PS)
 - 🧨 My desired job : SoftWare developer
-- 📝 Certificate :
+- 📝 Certificate : 정보처리기능사(대기중)
 - 📫 Email : **jinseung0327@gmail.com**
 - 🏫 the school where I'm attending : GBSW
 
