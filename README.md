@@ -21,7 +21,7 @@
 
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-C-blue?style-flat-square&logo=c&oColor=white"
+        src="https://img.shields.io/badge/-C-blue?style-flat-square&logo=c&lgoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
@@ -117,6 +117,12 @@
 <a href="">
     <img 
         src="https://img.shields.io/badge/-React-white?style-flat-square&logo=react&logoColor=skyblue"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+<a href="">
+    <img 
+        src="https://img.shields.io/badge/-MongoDB-white?style-flat-square&logo=mongodb&logoColor=green"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
