@@ -6,14 +6,14 @@
 <h2 align="center">I'm a student at the Gyeongbuk Software High School And I'm 17 years old.</h3>
 <h2 align="center">" I'm moving towards my goal! "</h3>
 
-<div styles="size="20"">
+
 - 🌱 I’m currently learning : **C++, Linux, AWS, SQLD**
 - ✨ My hobby : Watch a movie, algorithm Problem Solving(PS)
 - 🧨 My desired job : SoftWare developer
 - 📝 Certificate : 정보처리기능사(대기중)
 - 📫 Email : **jinseung0327@gmail.com**
 - 🏫 the school where I'm attending : GBSW
-</div>
+
 ## 📚 Ready Now
 
 <div display="flex">
