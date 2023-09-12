@@ -35,6 +35,7 @@
 
 <div display="flex">
 <img src="https://img.shields.io/badge/TypeScript-%23646CFF.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-%23646CFF.svg?style=for-the-badge&logo=react&logoColor=white" />
 </div>
 
 <a href="">
