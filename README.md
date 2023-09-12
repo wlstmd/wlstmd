@@ -58,27 +58,23 @@
 
 
 
-<a href="https://www.instagram.com/wlstmd_/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/wlstmd_/&logoColor=white"
-        style="height : auto; margin-left : 100px; margin-right : 100px;"/>
+<a href="https://instagram.com/wlstmd_">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/jinseung0327">
-    <img 
-        src="https://img.shields.io/badge/-Twitter-inactive?stylefat&logo=Twitter&link=https://twitter.com/jinseung0327/&logoColor=blue"
-        style="height : auto; margin-left : 100px; margin-right : 100px;"/>
-</a>
 <a href="https://discordapp.com/users/648462033775362061">
-    <img 
-        src="https://img.shields.io/badge/-Discord-blueviolet?stylefat&logo=Discord&link=https://discordapp.com/users/648462033775362061&logoColor=white"
-        style="height : auto; margin-left : 100px; margin-right : 100px;"/>
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
+   
+ <a href="https://twitter.com/jinseung0327">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+
 <a href="https://www.facebook.com/profile.php?id=100053598187971&mibextid=ZbWKwL">
-    <img 
-        src="https://img.shields.io/badge/-facebook-blue?stylefat&logo=facebook&link=https://www.facebook.com/profile.php?id=100053598187971&mibextid=ZbWKwL&logoColor=white"
-        style="height : auto; margin-left : 100px; margin-right : 100px;"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
+
+
 
 
 
