@@ -60,7 +60,7 @@
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-MySQL-blue?style-flat-square&logo=MySQL&logoColor=white"
+        src="https://img.shields.io/badge/-MySQL-blue?style-for-the-badge&logo=MySQL&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
