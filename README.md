@@ -43,44 +43,6 @@
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-<a href="">
-    <img 
-        src="https://img.shields.io/badge/-Python-9cf?style-flat-square&logo=python&oColor=yellow"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-
-
-
-<a href="">
-    <img 
-        src="https://img.shields.io/badge/-Javascript-yellow?style-flat-square&logo=javascript&logoColor=black"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<a href="">
-    <img 
-        src="https://img.shields.io/badge/-CSS3-informational?style-flat-square&logo=css3&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="">
-    <img 
-        src="https://img.shields.io/badge/-AmazonAWS-critical?style-flat-square&logo=amazonaws&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<a href="">
-    <img 
-        src="https://img.shields.io/badge/-TypeScript-blue?style-flat-square&logo=typescript&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<a href="">
-    <img 
-        src="https://img.shields.io/badge/-React-white?style-flat-square&logo=react&logoColor=skyblue"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
 ## 📚 Most Used
 
 
