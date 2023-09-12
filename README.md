@@ -33,7 +33,7 @@
 
 ## 📚 Learning Now
 
-
+<img src="https://img.shields.io/badge/TypeScript-%23646CFF.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <a href="">
     <img 
         src="https://img.shields.io/badge/-Python-9cf?style-flat-square&logo=python&oColor=yellow"
