@@ -19,8 +19,8 @@
 <div display="flex">
     <img src="https://img.shields.io/badge/C-red?style=for-the-badge&logo=C&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-red?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red" />
+    <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=red" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/node.js-FCC624?style=for-the-badge&logo=node.js&logoColor=black" />
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
