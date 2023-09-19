@@ -19,8 +19,9 @@
 <div display="flex">
     <img src="https://img.shields.io/badge/C-red?style=for-the-badge&logo=C&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-red?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=C&logoColor=white" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=red" />
+    <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5a&logoColor=red" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/node.js-FCC624?style=for-the-badge&logo=node.js&logoColor=black" />
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -46,7 +47,6 @@
     <img src="https://img.shields.io/badge/TypeScript-%23646CFF.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Python-%23646CFF.svg?style=for-the-badge&logo=python&logoColor=yellow" /> 
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
