@@ -8,11 +8,9 @@
 
 
 - 🌱 I’m currently learning : **C++, Linux, AWS, SQLD**
-- ✨ My hobby : Watch a movie, algorithm Problem Solving(PS)
-- 🧨 My desired job : SoftWare developer
+- 🧨 My desired job : Cloud Architect
 - 📝 Certificate : 정보처리기능사
 - 📫 Email : **jinseung0327@gmail.com**
-- 🏫 the school where I'm attending : GBSW
 
 ## 📚 Ready Now
 
