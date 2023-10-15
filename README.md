@@ -7,7 +7,7 @@
 <h2 align="center">" I'm moving towards my goal! "</h3>
 
 
-- 🌱 I’m currently learning : **C++, Linux, AWS, SQLD**
+- 🌱 I’m currently learning : **C++, AWS, Docker, Go, Python, SQLD**
 - 🧨 My desired job : Cloud Architect
 - 📝 Certificate : 정보처리기능사
 - 📫 Email : **jinseung0327@gmail.com**
