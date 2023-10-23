@@ -36,6 +36,7 @@
     <img src="https://img.shields.io/badge/SQL Server-%2307405e.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
     <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
     <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ## 📚 Learning Now
@@ -46,7 +47,6 @@
     <img src="https://img.shields.io/badge/TypeScript-%23646CFF.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Python-%23646CFF.svg?style=for-the-badge&logo=python&logoColor=yellow" /> 
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
