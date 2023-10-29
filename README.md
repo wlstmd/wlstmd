@@ -79,9 +79,6 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://jinseung0327.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-powderblue?style=for-the-badge&logo=amp&logoColor=white" />
-</a>
 
 <a href="https://blush-operation-6ec.notion.site/6aec6d51c94a428cb7eaeeaf0fa2c43a?pvs=4">
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
