@@ -48,6 +48,7 @@
     <img src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Python-%23646CFF.svg?style=for-the-badge&logo=python&logoColor=yellow" /> 
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/JSP-white?style=for-the-badge&logo=jsp&logoColor=red" />
 </div>
 
 ## 📚 Most Used
