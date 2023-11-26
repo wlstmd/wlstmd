@@ -23,17 +23,6 @@
     <img src="https://img.shields.io/badge/Python-%23646CFF.svg?style=for-the-badge&logo=python&logoColor=yellow" /> 
 </div>
 
-## 📚 Most Used
-
-<div display="flex">
-    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-    <img src="https://camo.githubusercontent.com/0d7baa31f8240f8594bbcf5df27410c0986455d8c46222f05099a62fa957c31b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4a534f4e2b5765622b546f6b656e7326636f6c6f723d303030303030266c6f676f3d4a534f4e2b5765622b546f6b656e73266c6f676f436f6c6f723d464646464646266c6162656c3d" />
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Terraform-%238A2BE2.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-</div>
-
 
 ## 📚 Contact 
 
