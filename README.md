@@ -25,17 +25,6 @@
 
 </div>
 
-## 📚 Learning Now
-
-<div display="flex">
- 
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/TypeScript-%23646CFF.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black" />
-
-    <img src="https://img.shields.io/badge/JSP-white?style=for-the-badge&logo=jsp&logoColor=red" />
-</div>
-
 ## 📚 Most Used
 
 <div display="flex">
