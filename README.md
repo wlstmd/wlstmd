@@ -12,22 +12,13 @@
 - 📝 Certificate : 정보처리기능사
 - 📫 Email : **jinseung0327@gmail.com**
 
-## 📚 Ready Now
+## 📚 Tech Stack
 
 <div display="flex">
-    <img src="https://img.shields.io/badge/C-red?style=for-the-badge&logo=C&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-red?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=red" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/node.js-FCC624?style=for-the-badge&logo=node.js&logoColor=black" />
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/Typeform-262627.svg?style=for-the-badge&logo=Typeform&logoColor=white" />
-    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-    <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://camo.githubusercontent.com/0d7baa31f8240f8594bbcf5df27410c0986455d8c46222f05099a62fa957c31b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4a534f4e2b5765622b546f6b656e7326636f6c6f723d303030303030266c6f676f3d4a534f4e2b5765622b546f6b656e73266c6f676f436f6c6f723d464646464646266c6162656c3d" />
     <br>
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -36,7 +27,7 @@
     <img src="https://img.shields.io/badge/SQL Server-%2307405e.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
     <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
     <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+
 </div>
 
 ## 📚 Learning Now
