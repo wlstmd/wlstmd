@@ -4,7 +4,7 @@
 
 ## 📚 About me
 <h2 align="center">I'm a student at the Gyeongbuk Software High School And I'm 17 years old.</h3>
-<h2 align="center">" I'm moving towards my goal! "</h3>
+<h2 align="center">클라우드 엔지니어를 희망하며 Terraform을 주로 사용하고 있습니다.</h3>
 
 
 - 🌱 I’m currently learning : **C++, Cloud, Go, Python, SQLD**
