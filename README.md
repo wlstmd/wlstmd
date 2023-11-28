@@ -38,10 +38,6 @@
 <a href="https://discordapp.com/users/648462033775362061">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-   
- <a href="https://twitter.com/jinseung0327">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
 
 <a href="https://www.facebook.com/profile.php?id=100053598187971&mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
