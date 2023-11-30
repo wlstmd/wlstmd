@@ -12,6 +12,10 @@
 - 📝 Certificate : 정보처리기능사
 - 📫 Email : **jinseung0327@gmail.com**
 
+<p align="center">
+    <a href=#><img src="contributions.svg"></a> 
+</p>
+
 ## 📚 Skills & Learning
 
 <div display="flex">
