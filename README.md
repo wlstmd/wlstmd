@@ -18,7 +18,8 @@
 
 ## Cloud
 <div display="flex">
-    <div style="display: flex; align-items: center; justify-content: center;"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="80" height="80" /></div>
+    <div style="margin: auto;"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="80" height="80" />
+    </div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
