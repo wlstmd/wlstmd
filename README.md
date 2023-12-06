@@ -18,9 +18,19 @@
 
 ## Cloud
 <div display="flex">
-    <div style="margin: auto;">
-        <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="80" height="80" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="80" height="80" />
-    </div>
+    <p align="center">
+    <a href=#><img src="contributions.svg"></a> 
+</p>
+
+<!-- Add the following code to center the Vercel badges -->
+<div style="display: flex; justify-content: center;">
+    <a href="https://hits.seeyoufarm.com">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinseung0327&count_bg=%23514FB4&title_bg=%233B34C4&icon=github.svg&icon_color=%23ABA0D0&title=Github&edge_flat=true" />
+    </a>
+</div>
+<div style="display: flex; justify-content: center;">
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Jinseung's%20GitHub&fontSize=70&animation=scaleIn">
+</div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
