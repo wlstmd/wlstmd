@@ -22,10 +22,6 @@
     </a>
 </p>
 
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Jinseung's%20GitHub&fontSize=70&animation=scaleIn">
-</p>
-
 ## Cloud
 <div display="flex" align="center">
     <div>
