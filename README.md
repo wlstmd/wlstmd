@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Jinseung's%20GitHub&fontSize=70&animation=scaleIn)
 
 
-<h1 display="flex" align="center">Skills</h1>
+<h1 display="flex" align="center">📚 Skills</h1>
 <div display="flex" align="center">
     <div>
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="80" height="80" />
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />  
 </div>
 
-<h1 display="flex" align="center">Contact</h1>
+<h1 display="flex" align="center">📚 Contact</h1>
 <div display="flex" align="center">
     <a href="https://instagram.com/wlstmd_">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
