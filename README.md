@@ -2,15 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Jinseung's%20GitHub&fontSize=70&animation=scaleIn)
 
-## 📚 About me
-<h2 align="center">클라우드 엔지니어를 희망하며 Terraform을 주로 사용하고 있습니다.</h3>
 
-- 🌱 I’m currently learning : **C++, Cloud, Go, Python, SQLD**
-- 🧨 My desired job : Cloud Architect
-- 📝 Certificate : 정보처리기능사
-- 📫 Email : **jinseung0327@gmail.com**
-
-## Cloud
+<h1 display="flex" align="center">Skills</h1>
 <div display="flex" align="center">
     <div>
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="80" height="80" />
@@ -25,7 +18,7 @@
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />  
 </div>
 
-## 📚 Contact 
+<h1 display="flex" align="center">Contact</h1>
 <div display="flex" align="center">
     <a href="https://instagram.com/wlstmd_">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
