@@ -15,13 +15,6 @@
     <a href=#><img src="contributions.svg"></a> 
 </p>
 
-<!-- Center the Vercel badges -->
-<p align="center">
-    <a href="https://hits.seeyoufarm.com">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinseung0327&count_bg=%23514FB4&title_bg=%233B34C4&icon=github.svg&icon_color=%23ABA0D0&title=Github&edge_flat=true" />
-    </a>
-</p>
-
 ## Cloud
 <div display="flex" align="center">
     <div>
@@ -38,21 +31,20 @@
 </div>
 
 ## 📚 Contact 
-<a href="https://instagram.com/wlstmd_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-
-<a href="https://discordapp.com/users/648462033775362061">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100053598187971&mibextid=ZbWKwL">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://blush-operation-6ec.notion.site/6aec6d51c94a428cb7eaeeaf0fa2c43a?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-</a>
+<div display="flex" align="center">
+    <a href="https://instagram.com/wlstmd_">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>
+    <a href="https://discordapp.com/users/648462033775362061">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100053598187971&mibextid=ZbWKwL">
+        <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+    <a href="https://blush-operation-6ec.notion.site/6aec6d51c94a428cb7eaeeaf0fa2c43a?pvs=4">
+        <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+    </a>
+</div>
 
 ## 📚 Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinseung0327&show_icons=true&theme=tokyonight)  
