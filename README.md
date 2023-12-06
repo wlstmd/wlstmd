@@ -36,6 +36,6 @@
 <h1 display="flex" align="center">📚 Stack</h1>
 
 <div display="flex" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jinseung0327&show_icons=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseung0327&layout=compact&theme=tokyonight" />
+    <img style="width: 200px" src="https://github-readme-stats.vercel.app/api?username=jinseung0327&show_icons=true&theme=tokyonight" />
+    <img style="width: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseung0327&layout=compact&theme=tokyonight" />
 </div>
