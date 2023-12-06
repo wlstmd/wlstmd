@@ -3,17 +3,12 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Jinseung's%20GitHub&fontSize=70&animation=scaleIn)
 
 ## 📚 About me
-<h2 align="center">I'm a student at the Gyeongbuk Software High School And I'm 17 years old.</h3>
 <h2 align="center">클라우드 엔지니어를 희망하며 Terraform을 주로 사용하고 있습니다.</h3>
 
 - 🌱 I’m currently learning : **C++, Cloud, Go, Python, SQLD**
 - 🧨 My desired job : Cloud Architect
 - 📝 Certificate : 정보처리기능사
 - 📫 Email : **jinseung0327@gmail.com**
-
-<p align="center">
-    <a href=#><img src="contributions.svg"></a> 
-</p>
 
 ## Cloud
 <div display="flex" align="center">
