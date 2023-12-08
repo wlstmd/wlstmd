@@ -2,7 +2,7 @@
 
 <h1 display="flex" align="center">👋  클라우드 엔지니어를 희망하고있는 유진승입니다.</h1>
 
-<h1 display="flex" align="center">📚 Skills</h1>
+<h1 display="flex" align="center">📚 Skills & Learning</h1>
 <div display="flex" align="center">
     <div>
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="80" height="80" />
