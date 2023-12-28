@@ -12,7 +12,7 @@
     "hobby": ["watch the movie", "listen to song"],
     "Skills & Learning": ["AWS", "Docker", "Kubernetes", "Terraform", "NestJS", "Go", "Python"],
     "Certificate": "정보처리기능사",
-    "MostLanguage": ["NestJS", "Go"]
+    "mostLanguage": ["NestJS", "Go"]
 }
 ```
 <div display="flex" align="center"> 
