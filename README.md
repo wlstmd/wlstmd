@@ -15,7 +15,7 @@
     "MostLanguage": ["NestJS", "Go"]
 }
 ```
-<div display="flex" align="center">
-    <img style="width: 380px" src="https://github-readme-stats.vercel.app/api?username=jinseung0327&show_icons=true&theme=dark&bg_color=transparent" />
-    <img style="width: 289px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseung0327&layout=compact&theme=dark&bg_color=transparent" />
+<div display="flex" align="center"> 
+    <img style="width: 380px" src="https://github-readme-stats.vercel.app/api?username=jinseung0327&show_icons=true&theme=tokyonight" /> 
+    <img style="width: 289px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseung0327&layout=compact&theme=tokyonight" /> 
 </div>
