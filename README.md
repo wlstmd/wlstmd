@@ -2,6 +2,9 @@
 
 <h1 display="flex" align="center">👋  클라우드 엔지니어를 희망하고있는 유진승입니다.</h1>
 
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhasanii&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhasanii" /> </p>
+
 <h1 display="flex" align="center">📚 Skills & Learning</h1>
 <div display="flex" align="center">
     <div>
