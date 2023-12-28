@@ -16,7 +16,7 @@
     "mostLanguage": ["NestJS", "Go"]
 }
 ```
-<h1 display="flex" align="center">👋 Stats </h1>
+<h1 display="flex" align="center">Github README Stats </h1>
 <div display="flex" align="center"> 
     <img style="width: 380px; border: none;" src="https://github-readme-stats.vercel.app/api?username=jinseung0327&show_icons=true&theme=tokyonight" /> 
     <img style="width: 289px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseung0327&layout=compact&theme=tokyonight" /> 
