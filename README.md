@@ -11,7 +11,7 @@
     "hobby": ["watch the movie", "listen to song"],
     "Skills & Learning": ["AWS", "Docker", "Kubernetes", "Terraform", "NestJS", "Go", "Python"],
     "awards" [
-        "교내 창업 경진 대회 동상"
+        "Bronze medal at school startup competition"
     ],
     "Certificate": [
         { "name": "정보처리기능사", "IssuedAt": "2023년 9월 25일", "Number": "23403250566P" }
