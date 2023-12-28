@@ -27,6 +27,13 @@
 </div>
 
 <details>
+  <summary>Github-Profile-Trophy (click me) </summary>
+  
+![](https://github-profile-trophy.vercel.app/?username=jinseung0327&row=1&column=8&theme=nord)
+  
+</details>
+
+<details>
     <summary>Github-README-Stats (click me) </summary>
     <div style="display: flex; align-items: center; margin-top: 30px;">
         <img style="width: 380px; border: none;" src="https://github-readme-stats.vercel.app/api?username=jinseung0327&show_icons=true&theme=tokyonight" />
