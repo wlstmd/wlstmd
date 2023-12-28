@@ -9,7 +9,8 @@
 {
     "name": "Jinseung Yu",
     "birthday": 2007,
-    "Skills & Learning": ["AWS", "Docker", "Kubernetes", "NestJS", "Go", "Python"],
+    "hobby": ["watch the movie", "listen to song"],
+    "Skills & Learning": ["AWS", "Docker", "Kubernetes", "Terraform", "NestJS", "Go", "Python"],
     "Certificate": "정보처리기능사",
     "MostLanguage": ["NestJS", "Go"]
 }
