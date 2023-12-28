@@ -18,6 +18,7 @@
     "Portfolio": "https://jinseung0327.github.io/PortfolioV1/"
 }
 ```
+<img src="./contributions.svg"/>
 <details>
   <summary>Github-README-Stats</summary>
     <div style="display: flex; align-items: center; margin-top: 30px;">
