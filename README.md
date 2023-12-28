@@ -6,7 +6,7 @@
 ```json
 {
     "name": "Jinseung Yu",
-    "birthday": 2007,
+    "birthday": "2007/03/27",
     "school": "Gyeongbuk Software High School",
     "hobby": ["watch the movie", "listen to song"],
     "Skills & Learning": ["AWS", "Docker", "Kubernetes", "Terraform", "NestJS", "Go", "Python"],
