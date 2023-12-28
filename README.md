@@ -25,7 +25,7 @@
 <div align="center">
     <img src="./contributions.svg"/>
 </div>
-<details style="display: flex; align-items: center">
+<details style="display: flex; align-items: center;">
   <summary>Github-README-Stats (click me) </summary>
     <div style="display: flex; align-items: center; margin-top: 30px;">
         <img style="width: 380px; border: none;" src="https://github-readme-stats.vercel.app/api?username=jinseung0327&show_icons=true&theme=tokyonight" />
