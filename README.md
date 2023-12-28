@@ -13,7 +13,7 @@
     "Certificate": [
         { "name": "정보처리기능사", "IssuedAt": "2023년 9월 25일", "Number": "23403250566P" }
     ]
-    "mostLanguage": ["NestJS", "Go"],
+    "mostLanguage": ["NestJS", "Go", "Python"],
     "MyBlog": "https://blog.naver.com/jinseung0327"
     "Portfolio": "https://jinseung0327.github.io/PortfolioV1/"
 }
