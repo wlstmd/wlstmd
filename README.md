@@ -19,6 +19,7 @@
 }
 ```
 <div display="flex" align="center"> 
-    <img style="width: 380px" src="https://github-readme-stats.vercel.app/api?username=jinseung0327&show_icons=true&theme=default" /> 
-    <img style="width: 289px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseung0327&layout=compact&theme=default" /> 
+    <img style="width: 380px" src="https://github-readme-stats.vercel.app/api?username=jinseung0327&show_icons=true&theme=dark" /> 
+    <img style="width: 289px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseung0327&layout=compact&theme=dark" /> 
 </div>
+
