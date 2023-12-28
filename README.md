@@ -9,6 +9,7 @@
 {
     "name": "Jinseung Yu",
     "birthday": 2007,
+    "school": "Gyeongbuk Software High School",
     "hobby": ["watch the movie", "listen to song"],
     "Skills & Learning": ["AWS", "Docker", "Kubernetes", "Terraform", "NestJS", "Go", "Python"],
     "Certificate": "정보처리기능사",
