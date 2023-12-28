@@ -16,6 +16,6 @@
 }
 ```
 <div display="flex" align="center">
-    <img style="width: 380px" src="https://github-readme-stats.vercel.app/api?username=jinseung0327&show_icons=true&theme=tokyonight" />
-    <img style="width: 289px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseung0327&layout=compact&theme=tokyonight" />
+    <img style="width: 380px" src="https://github-readme-stats.vercel.app/api?username=jinseung0327&show_icons=true&theme=tokyonight&bg_color=transparent" />
+    <img style="width: 289px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseung0327&layout=compact&theme=tokyonight&bg_color=transparent" />
 </div>
