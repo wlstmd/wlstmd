@@ -16,7 +16,8 @@
         "Bronze prize at the school portfolio competition"
     ],
     "Certificate": [
-        { "name": "정보처리기능사", "IssuedAt": "2023년 9월 25일", "Number": "23403250566P" }
+        { "name": "정보처리기능사", "IssuedAt": "2023년 9월 25일", "Number": "23403250566P" },
+        { "name": "정보처리산업기사", "IssuedAt": "과정형 평가중", "Score": "98.6" }
     ]
     "mostLanguage": ["NestJS", "Go", "Python"],
     "MyBlog": "https://blog.naver.com/jinseung0327"
