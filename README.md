@@ -5,13 +5,13 @@
 
 ```json
 {
-    "name": "Jinseung Yu",
-    "birthday": "2007/03/27",
-    "school": "Gyeongbuk Software High School",
-    "field": ["Backend", "Cloud"],
-    "hobby": ["watch the movie", "listen to song"],
+    "Name": "Jinseung Yu",
+    "Birthday": "2007/03/27",
+    "School": "Gyeongbuk Software High School",
+    "Field": ["Backend", "Cloud"],
+    "Hobby": ["watch the movie", "listen to song"],
     "Skills": ["AWS", "Docker", "Kubernetes", "Terraform", "NestJS", "Go", "Python", "Django", "Helm", "Jenkins"],
-    "awards" [
+    "Awards" [
         "Bronze medal at school startup competition",
         "Bronze prize at the school portfolio competition",
         "Java Programming Course Excellence Award"
@@ -20,7 +20,7 @@
         { "name": "정보처리기능사", "IssuedAt": "2023년 9월 25일", "Number": "23403250566P" },
         { "name": "정보처리산업기사", "IssuedAt": "과정형 평가중", "Score": "98.6" }
     ],
-    "mostLanguage": ["NestJS", "Go", "Python", "Spring Boot"],
+    "MostLanguage": ["NestJS", "Go", "Python", "Spring Boot"],
     "MyBlog": "https://blog.naver.com/jinseung0327"
     "Portfolio": "https://jinseung0327.github.io/PortfolioV1/"
 }
