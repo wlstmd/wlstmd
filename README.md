@@ -10,8 +10,8 @@
     "School": "Gyeongbuk Software High School",
     "Field": ["Backend", "Cloud"],
     "Hobby": ["watch the movie", "listen to song"],
-    "Skills": ["AWS", "Docker", "Kubernetes", "Terraform", "NestJS", "Go", "Python", "Django", "Helm", "Jenkins"],
-    "Awards" [
+    "Skills": ["AWS", "Docker", "Kubernetes", "Terraform", "NestJS", "Golang", "Python", "Django", "Helm", "Jenkins"],
+    "awards" [
         "Bronze medal at school startup competition",
         "Bronze prize at the school portfolio competition",
         "Java Programming Course Excellence Award"
