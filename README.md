@@ -9,7 +9,6 @@
     "Birthday": "2007/03/27",
     "School": "Gyeongbuk Software High School",
     "Field": ["Backend", "Cloud"],
-    "Hobby": ["watch the movie", "listen to song"],
     "Skills": ["AWS", "Docker", "Kubernetes", "Terraform", "NestJS", "Golang", "Python", "Django", "Helm", "Jenkins"],
     "awards" [
         "Bronze medal at school startup competition",
