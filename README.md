@@ -14,7 +14,7 @@
         "Bronze medal at school startup competition",
         "Bronze prize at the school portfolio competition",
         "Java Programming Course Excellence Award",
-        "Bronze medal for showing off school-developed work"
+        "Programming Language Work Showcase Contest Bronze Prize"
     ],
     "Certificate": [
         { "name": "정보처리기능사", "IssuedAt": "2023년 9월 25일", "Number": "23403250566P" },
