@@ -8,7 +8,7 @@
     "Name": "Jinseung Yu",
     "Birthday": "2007/03/27",
     "School": "Gyeongbuk Software High School",
-    "Field": ["Backend", "Cloud"],
+    "Tech": ["Backend", "Cloud"],
     "Skills": ["AWS", "Docker", "Kubernetes", "Terraform", "NestJS", "Go", "Python", "Django", "Helm", "Jenkins"],
     "awards" [
         "Bronze medal at school startup competition",
