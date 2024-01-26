@@ -27,13 +27,12 @@
 }
 ```
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-</div>
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />&nbsp;&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />&nbsp;&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />&nbsp;&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />&nbsp;&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+
 
 
 <details>
