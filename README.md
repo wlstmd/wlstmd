@@ -8,7 +8,6 @@
     "Name": "Jinseung Yu",
     "Birthday": "2007/03/27",
     "School": "Gyeongbuk Software High School",
-    "Department": "Software Development Department",
     "Tech": ["Backend", "Cloud"],
     "Skills": ["AWS", "Docker", "Kubernetes", "Terraform", "NestJS", "Go", "Python", "Django", "Helm", "Jenkins"],
     "awards" [
