@@ -31,8 +31,6 @@
 </div>
 
 
-
-
 <details>
   <summary>Github-Profile-Trophy (click me) </summary>
   
