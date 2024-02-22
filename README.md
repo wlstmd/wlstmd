@@ -27,7 +27,7 @@
 ```
 
 <div style="display: flex;">
-    <img src="contributions.svg"/>
+    <img src="dino.gif"/>
 </div>
 
 
