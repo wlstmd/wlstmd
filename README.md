@@ -27,7 +27,7 @@
 ```
 
 <div style="display: flex;">
-    <img style="height: 250px; " src="dino.gif"/>
+    <img style="height: 270px; " src="dino.gif"/>
 </div>
 
 
