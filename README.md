@@ -30,6 +30,7 @@
     <img style="height: 300px; " src="dino.gif"/>
 </div>
 
+<br />
 
 <details>
   <summary>Github-Profile-Trophy (click me) </summary>
