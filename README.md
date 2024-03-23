@@ -22,7 +22,8 @@
     ],
     "MostLanguage": ["NestJS", "Go", "Python", "Django"],
     "MyBlog": "https://blog.naver.com/jinseung0327",
-    "Portfolio": "https://wlstmd.github.io/PortfolioV1/"
+    "Portfolio": "https://wlstmd.github.io/PortfolioV1/".
+    "Discord": "https://discord.com/users/648462033775362061"
 }
 ```
 
