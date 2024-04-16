@@ -5,7 +5,7 @@
 
 ```json
 {
-    "Name": "Pu ssy",
+    "Name": "Jinseung Yu",
     "Birthday": "2007.03.27",
     "School": "Gyeongbuk Software High School",
     "Tech": ["Cloud", "Backend"],
