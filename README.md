@@ -11,7 +11,7 @@
     "Tech": ["Cloud", "Backend"],
     "Skills": ["AWS", "Docker", "K8s", "Terraform", "NestJS", "Go", "Python", "Django"],
     "Awards": [
-        "Worldskills-local Cloud Computing Encouragement Award",
+        "GyeongBuk Worldskills Cloud Computing Encouragement Award",
         "Bronze medal at school startup competition",
         "Bronze prize at the school portfolio competition",
         "Java Programming Course Excellence Award",
