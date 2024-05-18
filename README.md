@@ -9,7 +9,7 @@
     "Birthday": "2007.03.27",
     "School": "Gyeongbuk Software High School",
     "Tech": ["Cloud", "Backend"],
-    "Skills": ["AWS", "Docker", "K8s", "Terraform", "NestJS", "Go", "Python", "Django"],
+    "Skills": ["AWS", "Docker", "Kubernetes", "Terraform", "Github-Actions"],
     "Awards": [
         "GyeongBuk Worldskills Cloud Computing Encouragement Award",
         "Bronze medal at school startup competition",
