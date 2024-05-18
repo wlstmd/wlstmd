@@ -10,6 +10,7 @@
     "School": "Gyeongbuk Software High School",
     "Tech": ["Cloud", "Backend"],
     "Skills": ["AWS", "Docker", "Kubernetes", "Terraform", "Github-Actions"],
+    "Learning": ["ArgoCD", "Jenkins", "Helm", "Istio"],
     "Awards": [
         "GyeongBuk Worldskills Cloud Computing Encouragement Award",
         "Bronze medal at school startup competition",
