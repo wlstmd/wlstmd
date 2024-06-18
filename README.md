@@ -13,14 +13,12 @@
     "Learning": ["ArgoCD", "Jenkins", "Helm", "Istio"],
     "Awards": [
         "GyeongBuk Worldskills Cloud Computing Encouragement Award",
-        "Bronze medal at school startup competition",
-        "Bronze prize at the school portfolio competition",
-        "Java Programming Course Excellence Award",
-        "Programming Language Work Showcase Contest Bronze Prize"
+        "Java Programming Course Excellence Award"
     ],
     "Certificate": [
         { "name": "정보처리기능사", "IssuedAt": "2023년 9월 25일", "Number": "23403250566P" },
-        { "name": "정보처리산업기사", "IssuedAt": "과정형 평가중", "Score": "98.6" }
+        { "name": "정보처리산업기사", "IssuedAt": "과정형 평가중", "Score": "98.6" },
+        { "name": "리눅스마스터", "IssuedAt": "대기중", "Score": "" }
     ],
     "MostLanguage": ["NestJS", "Go", "Python", "Django"],
     "MyBlog": "https://blog.naver.com/jinseung0327",
