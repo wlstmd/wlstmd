@@ -13,7 +13,8 @@
     "Learning": ["ArgoCD", "Jenkins", "Helm", "Istio"],
     "Awards": [
         "GyeongBuk Worldskills Cloud Computing Encouragement Award",
-        "Java Programming Course Excellence Award"
+        "Java Programming Course Excellence Award",
+        etc..
     ],
     "Certificate": [
         { "name": "정보처리기능사", "IssuedAt": "2023년 9월 25일", "Number": "23403250566P" },
