@@ -28,12 +28,6 @@
 }
 ```
 
-<div style="display: flex;">
-    <img src="contributions.svg"/>
-</div>
-
-<br />
-
 <details>
   <summary>Github-Profile-Trophy (click me) </summary>
   
