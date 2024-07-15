@@ -17,6 +17,7 @@
     "Awards": [
         "GyeongBuk Worldskills Cloud Computing Encouragement Award",
         "Java Programming Course Excellence Award",
+        "Gold prize in school startup contest",
         "etc..."
     ],
     "Certificate": [
