@@ -7,7 +7,7 @@
 {
     "Name": "Jinseung Yu",
     "Birthday": "2007.03.27",
-    "School": "Gyeongbuk Software High School",
+    "School": "Gyeongbuk Software Meister High School",
     "Tech": ["Cloud", "Backend"],
     "Skills": ["AWS", "Docker", "Kubernetes", "Terraform", "Github-Actions", "NestJS"],
     "Learning": ["ArgoCD", "Jenkins", "Helm", "Istio", "Azure", "Spring Boot"],
