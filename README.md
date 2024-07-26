@@ -2,32 +2,7 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wlstmd&label=Profile%20views&color=0e75b6&style=flat" alt="wlstmd" /> </p>
 
-
-```json
-{
-    "Name": "Jinseung Yu",
-    "Birthday": "2007.03.27",
-    "School": "Gyeongbuk Software Meister High School",
-    "Tech": ["Cloud", "Backend"],
-    "Skills": ["AWS", "Docker", "Kubernetes", "Terraform", "Github-Actions", "NestJS"],
-    "Learning": ["ArgoCD", "Jenkins", "Helm", "Istio", "Azure", "Spring Boot"],
-    "Awards": [
-        "GyeongBuk Worldskills Cloud Computing Encouragement Award",
-        "Java Programming Course Excellence Award",
-        "Gold prize in school startup contest",
-        "etc..."
-    ],
-    "Certificate": [
-        { "name": "정보처리기능사", "IssuedAt": "2023년 9월 25일", "Number": "23403250566P" },
-        { "name": "리눅스마스터", "IssuedAt": "2024년 6월 28일", "rating": "2급" },
-        { "name": "정보처리산업기사", "IssuedAt": "과정형 평가중", "Score": "98.6" }
-    ],
-    "MostLanguage": ["NestJS", "Go", "Java", "Spring Boot"],
-    "MyBlog": "https://blog.naver.com/jinseung0327",
-    "Portfolio": "http://wlstmd-notion.kro.kr",
-    "Discord": "https://discord.com/users/648462033775362061"
-}
-```
+![wlstmd](https://github.com/user-attachments/assets/54541b3c-23b6-4bce-8caf-3f8547a0e535)
 
 <details>
   <summary>Github-Profile-Trophy (click me) </summary>
