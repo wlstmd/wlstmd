@@ -2,7 +2,8 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wlstmd&label=Profile%20views&color=0e75b6&style=flat" alt="wlstmd" /> </p>
 
-![wlstmd](https://github.com/user-attachments/assets/54541b3c-23b6-4bce-8caf-3f8547a0e535)
+![wlstmd](https://github.com/user-attachments/assets/8230a616-4dea-4335-bbcd-3dfeee55e0a9)
+
 
 <details>
   <summary>Github-Profile-Trophy (click me) </summary>
