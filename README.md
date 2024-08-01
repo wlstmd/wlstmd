@@ -24,7 +24,7 @@
     "MostLanguage": ["NestJS", "Go", "Java", "Spring Boot"],
     "MyBlog": "https://blog.naver.com/jinseung0327",
     "Portfolio": "http://wlstmd-notion.kro.kr",
-    "Discord": "https://discord.com/users/648462033775362061"
+    "Discord": "wlstmd_cloud"
 }
 ```
 
