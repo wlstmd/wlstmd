@@ -9,7 +9,7 @@
     "School": "Gyeongbuk Software Meister High School",
     "Tech": ["Cloud", "Backend"],
     "Skills": ["AWS", "Docker", "Kubernetes", "Terraform", "NestJS", "Spring Boot"],
-    "Learning": ["ArgoCD", "Jenkins", "Helm", "Istio", "Azure"],
+    "Learning": ["ArgoCD", "Jenkins", "Istio", "Azure", "GitOps"],
     "Awards": [
         "GyeongBuk Worldskills Cloud Computing Encouragement Award",
         "Java Programming Course Excellence Award",
