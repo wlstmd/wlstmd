@@ -14,7 +14,7 @@
         "GyeongBuk Worldskills Cloud Computing Encouragement Award",
         "Java Programming Course Excellence Award",
         "Gold prize in school startup contest",
-        "etc..."
+        "blabla.."
     ],
     "Certificate": [
         { "name": "정보처리기능사", "IssuedAt": "2023년 9월 25일", "Number": "23403250566P" },
