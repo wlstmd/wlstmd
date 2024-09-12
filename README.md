@@ -8,7 +8,7 @@
     "Birthday": "2007.03.27",
     "School": "Gyeongbuk Software Meister High School",
     "Tech": ["Cloud", "Backend"],
-    "Skills": ["AWS", "Docker", "Kubernetes", "Terraform", "NestJS", "Spring Boot"],
+    "Skills": ["AWS", "Docker", "Kubernetes", "Terraform"],
     "Learning": ["ArgoCD", "Jenkins", "GitOps"],
     "Awards": [
         "GyeongBuk Worldskills Cloud Computing Encouragement Award",
