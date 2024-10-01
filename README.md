@@ -9,7 +9,6 @@
     "School": "Gyeongbuk Software Meister High School",
     "Tech": ["Cloud", "Backend"],
     "Skills": ["AWS", "Docker", "Kubernetes", "Terraform"],
-    "Learning": ["ArgoCD", "Jenkins", "GitOps"],
     "Awards": [
         "GyeongBuk Worldskills Cloud Computing Encouragement Award",
         "Java Programming Course Excellence Award",
