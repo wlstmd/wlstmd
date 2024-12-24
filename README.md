@@ -11,6 +11,7 @@
     "Skills": ["AWS", "Docker", "Kubernetes", "Terraform"],
     "Awards": [
         "GyeongBuk Worldskills Cloud Computing Encouragement Award",
+        "Gyeongbuk SWAI Talent Development Project Excellence Award",
         "Java Programming Course Excellence Award",
         "Gold prize in school startup contest",
         "blabla.."
