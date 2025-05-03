@@ -21,8 +21,7 @@
         { "name": "리눅스마스터", "IssuedAt": "2024년 6월 28일", "rating": "2급" },
         { "name": "정보처리산업기사", "IssuedAt": "2024년 12월 24일", "Number": "24251160150B" }
     ],
-    "MyBlog": "https://blog.naver.com/jinseung0327",
-    "Discord": "wlstmd_cloud"
+    "MyBlog": "https://blog.wlstmd.com"
 }
 ```
 
