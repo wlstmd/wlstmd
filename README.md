@@ -13,8 +13,6 @@
         "2025 60th National WorldSkills Competition - Excellence Award (Cloud Computing)",
         "2025 60th Gyeongbuk WorldSkills Competition - Silver Medal (Cloud Computing)",
         "2024 GyeongBuk SWAI Talent Development Project Excellence Award",
-        "2024 Java Programming Course Excellence Award",
-        "2024 Gold prize in school startup contest",
         "blabla.."
     ],
     "Certificate": [
