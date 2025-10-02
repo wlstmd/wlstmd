@@ -1,5 +1,8 @@
 name: Update README with latest blog posts
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "*/5 * * * *" 
