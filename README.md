@@ -31,6 +31,7 @@
 - [EKS with CrossPlane](https://blog.wlstmd.com/27)
 - [EC2 Hop Limit](https://blog.wlstmd.com/26)
 - [EKS with Harbor](https://blog.wlstmd.com/25)
+- [Istio Keycloak 인증 연동](https://blog.wlstmd.com/24)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
