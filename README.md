@@ -27,7 +27,6 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [test](https://blog.wlstmd.com/29)
 - [Event Bridge를 이용해 ECR Image Push 감지 후 서버 실행하기](https://blog.wlstmd.com/28)
 - [EKS with CrossPlane](https://blog.wlstmd.com/27)
 - [EC2 Hop Limit](https://blog.wlstmd.com/26)
