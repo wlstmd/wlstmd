@@ -16,3 +16,5 @@ jobs:
         with:
           feed_list: "https://blog.wlstmd.com/rss"
           max_post_count: 5
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+          accept_header: "*/*"
