@@ -2,7 +2,7 @@ name: Update README with latest blog posts
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 매일 자정 UTC (한국시간 오전 9시)
+    - cron: "*/5 * * * *" 
   workflow_dispatch:
 
 jobs:
