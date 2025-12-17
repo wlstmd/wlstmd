@@ -24,16 +24,6 @@
 }
 ```
 
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [NodeLocalDNS](https://blog.wlstmd.com/30)
-- [Event Bridge를 이용해 ECR Image Push 감지 후 서버 실행하기](https://blog.wlstmd.com/28)
-- [EKS with CrossPlane](https://blog.wlstmd.com/27)
-- [EC2 Hop Limit](https://blog.wlstmd.com/26)
-- [EKS with Harbor](https://blog.wlstmd.com/25)
-<!-- BLOG-POST-LIST:END -->
-
 <details>
   <summary>Github-Profile-Trophy (click me) </summary>
   
