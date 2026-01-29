@@ -6,7 +6,7 @@
 {
     "Name": "Jinseung Yu",
     "Birthday": "2007.03.27",
-    "School": "Gyeongbuk Software Meister High School",
+    "School": "Keimyung University",
     "Tech": ["Cloud", "Backend"],
     "Skills": ["AWS", "Kubernetes", "Terraform", "NestJS"],
     "Awards": [
