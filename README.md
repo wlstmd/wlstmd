@@ -12,7 +12,7 @@
     "Awards": [
         "2025 60th National WorldSkills Competition - Excellence Award (Cloud Computing)",
         "2025 60th Gyeongbuk WorldSkills Competition - Silver Medal (Cloud Computing)",
-        "2024 GyeongBuk SWAI Talent Development Project Excellence Award",
+        "2024 GyeongBuk SW-AI Talent Development Project Excellence Award",
         "blabla.."
     ],
     "Certificate": [
@@ -20,7 +20,11 @@
         { "name": "리눅스마스터", "IssuedAt": "2024년 6월 28일", "rating": "2급" },
         { "name": "정보처리산업기사", "IssuedAt": "2024년 12월 24일", "Number": "24251160150B" }
     ],
-    "MyBlog": "https://blog.wlstmd.com"
+    "FunFacts": {
+        "tabWidth": 2,
+        "semi": false,
+        "website": "https://wlstmd.com"
+    }
 }
 ```
 
