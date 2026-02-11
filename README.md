@@ -31,7 +31,7 @@
 <details>
   <summary>Github-Profile-Trophy (click me) </summary>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=wlstmd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wlstmd)](https://github.com/ryo-ma/github-profile-trophy)
   
 </details>
 
