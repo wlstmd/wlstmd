@@ -28,7 +28,7 @@
 }
 ```
 
-<details>
+<!-- <details>
   <summary>Github-Profile-Trophy (click me) </summary>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=wlstmd)](https://github.com/ryo-ma/github-profile-trophy)
@@ -41,4 +41,4 @@
         <img style="width: 380px; border: none;" src="https://github-readme-stats.vercel.app/api?username=wlstmd&show_icons=true&theme=tokyonight" />
         <img style="width: 289px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlstmd&layout=compact&theme=tokyonight" />
     </div>
-</details>
+</details> -->
