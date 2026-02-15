@@ -31,11 +31,11 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS EC2 비밀번호로 접속하기](https://blog.wlstmd.com/39)
 - [RDS IAM Authentication](https://blog.wlstmd.com/38)
 - [RDS Healthcheck Disaster Recovery](https://blog.wlstmd.com/37)
 - [AWS EC2 Fail2ban](https://blog.wlstmd.com/36)
 - [Route53 DNSSEC](https://blog.wlstmd.com/35)
-- [Calico CNI](https://blog.wlstmd.com/34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <details>
