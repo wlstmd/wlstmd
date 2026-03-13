@@ -17,7 +17,7 @@ jobs:
       - name: Update blog post list in README
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.wlstmd.com/rss"
+          feed_list: "https://jinseung0327.tistory.com/rss"
           max_post_count: 5
           user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
           accept_header: "*/*"
