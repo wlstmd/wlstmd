@@ -23,7 +23,7 @@
     "FunFacts": {
         "tabWidth": 2,
         "semi": false,
-        "website": "https://wlstmd.com"
+        "website": "https://wlstmd.cloud"
     }
 }
 ```
