@@ -31,11 +31,11 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS EC2 비밀번호로 접속하기](https://jinseung0327.tistory.com/39)
-- [RDS IAM Authentication](https://jinseung0327.tistory.com/38)
-- [RDS Healthcheck Disaster Recovery](https://jinseung0327.tistory.com/37)
-- [AWS EC2 Fail2ban](https://jinseung0327.tistory.com/36)
-- [Route53 DNSSEC](https://jinseung0327.tistory.com/35)
+- [AWS EC2 비밀번호로 접속하기](https://blog.wlstmd.cloud/39)
+- [RDS IAM Authentication](https://blog.wlstmd.cloud/38)
+- [RDS Healthcheck Disaster Recovery](https://blog.wlstmd.cloud/37)
+- [AWS EC2 Fail2ban](https://blog.wlstmd.cloud/36)
+- [Route53 DNSSEC](https://blog.wlstmd.cloud/35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <details>
