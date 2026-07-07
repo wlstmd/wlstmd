@@ -31,11 +31,11 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SSH Connection Error Trouble Shooting](https://blog.wlstmd.cloud/41)
 - [Security Group Unauthorized Inbound Rule Revoke](https://blog.wlstmd.cloud/40)
 - [AWS EC2 비밀번호로 접속하기](https://blog.wlstmd.cloud/39)
 - [RDS IAM Authentication](https://blog.wlstmd.cloud/38)
 - [RDS Healthcheck Disaster Recovery](https://blog.wlstmd.cloud/37)
-- [AWS EC2 Fail2ban](https://blog.wlstmd.cloud/36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <details>
