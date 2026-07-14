@@ -20,6 +20,9 @@
         { "name": "리눅스마스터", "IssuedAt": "2024년 6월 28일", "rating": "2급" },
         { "name": "정보처리산업기사", "IssuedAt": "2024년 12월 24일", "Number": "24251160150B" }
     ],
+    "Experience": [
+        "Cloud Computing Instructor at Gyeongbuk Software Meister High School"
+    ],
     "FunFacts": {
         "tabWidth": 2,
         "semi": false,
