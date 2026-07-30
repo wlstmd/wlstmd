@@ -21,7 +21,8 @@
         { "name": "정보처리산업기사", "IssuedAt": "2024년 12월 24일", "Number": "24251160150B" }
     ],
     "Experience": [
-        "Cloud Computing Instructor at Gyeongbuk Software Meister High School"
+        "Cloud Computing Instructor at Gyeongbuk Software Meister High School",
+        "LikeLion Keimyung University 14th Generation"
     ],
     "FunFacts": {
         "tabWidth": 2,
