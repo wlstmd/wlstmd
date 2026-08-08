@@ -16,31 +16,31 @@ Yu.**
 
 ```json
 {
-    "Name": "Jinseung Yu",
-    "Birthday": "2007.03.27",
-    "School": "Keimyung University",
-    "Tech": ["Cloud", "Backend"],
-    "Skills": ["AWS", "Kubernetes", "Terraform", "NestJS"],
-    "Awards": [
-        "2025 60th National WorldSkills Competition - Excellence Award (Cloud Computing)",
-        "2025 60th Gyeongbuk WorldSkills Competition - Silver Medal (Cloud Computing)",
-        "2024 GyeongBuk SW-AI Talent Development Project Excellence Award",
-        "blabla.."
-    ],
-    "Certificate": [
-        { "name": "정보처리기능사", "IssuedAt": "2023년 9월 25일", "Number": "23403250566P" },
-        { "name": "리눅스마스터", "IssuedAt": "2024년 6월 28일", "rating": "2급" },
-        { "name": "정보처리산업기사", "IssuedAt": "2024년 12월 24일", "Number": "24251160150B" }
-    ],
-    "Experience": [
-        "Cloud Computing Instructor at Gyeongbuk Software Meister High School",
-        "LikeLion Keimyung University 14th Generation"
-    ],
-    "FunFacts": {
-        "tabWidth": 2,
-        "semi": false,
-        "website": "https://wlstmd.cloud"
-    }
+  "name": "Jinseung Yu",
+  "birthday": "2007.03.27",
+  "school": "Keimyung University",
+  "tech": ["Cloud", "Backend"],
+  "skills": ["AWS", "Kubernetes", "Terraform", "NestJS"],
+  "awards": [
+    "2025 60th National WorldSkills Competition - Excellence Award (Cloud Computing)",
+    "2025 60th Gyeongbuk WorldSkills Competition - Silver Medal (Cloud Computing)",
+    "2024 GyeongBuk SW-AI Talent Development Project Excellence Award",
+    "blabla.."
+  ],
+  "certificate": [
+    { "name": "정보처리기능사", "IssuedAt": "2023년 9월 25일", "Number": "23403250566P" },
+    { "name": "리눅스마스터", "IssuedAt": "2024년 6월 28일", "rating": "2급" },
+    { "name": "정보처리산업기사", "IssuedAt": "2024년 12월 24일", "Number": "24251160150B" }
+  ],
+  "experience": [
+    "Cloud Computing Instructor at Gyeongbuk Software Meister High School",
+    "LikeLion Keimyung University 14th Generation"
+  ],
+  "funFacts": {
+    "tabWidth": 2,
+    "semi": false,
+    "website": "https://wlstmd.cloud"
+  }
 }
 ```
 
