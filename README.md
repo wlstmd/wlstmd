@@ -1,6 +1,18 @@
-<h1 display="flex" align="center">👋  My name is Jinseung and I'm hoping for the DevOps Engineer.</h1>
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wlstmd&label=Profile%20views&color=0e75b6&style=flat" alt="wlstmd" /> </p>
+<img src="assets/rocket.svg" width="50px" align="right" />
+
+**Jinseung\
+Yu.**
+
+19yo Korean cloud engineer & backend programmer.\
+✉️ mailto:jinseung0327@gmail.com / 🔗 https://wlstmd.cloud
+
+> [!NOTE]
+> @wlstmd runs a tech blog!\
+> See it now: https://blog.wlstmd.cloud
+> <p align="left"> <img src="https://komarev.com/ghpvc/?username=wlstmd&label=Profile%20views&color=0e75b6&style=flat" alt="wlstmd" /> </p>
+
+---
+
 
 ```json
 {
