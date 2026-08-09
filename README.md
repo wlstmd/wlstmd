@@ -68,3 +68,4 @@ Yu.**
         <img style="width: 289px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlstmd&layout=compact&theme=tokyonight" />
     </div>
 </details> -->
+*ps: This list is automatically generated from my blog.
