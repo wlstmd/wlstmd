@@ -28,9 +28,9 @@ Yu.**
     "blabla.."
   ],
   "certificate": [
-    { "name": "정보처리기능사", "IssuedAt": "2023년 9월 25일", "Number": "23403250566P" },
-    { "name": "리눅스마스터", "IssuedAt": "2024년 6월 28일", "rating": "2급" },
-    { "name": "정보처리산업기사", "IssuedAt": "2024년 12월 24일", "Number": "24251160150B" }
+    { "name": "정보처리기능사", "issuedAt": "2023년 9월 25일", "number": "23403250566P" },
+    { "name": "리눅스마스터", "issuedAt": "2024년 6월 28일", "rating": "2급" },
+    { "name": "정보처리산업기사", "issuedAt": "2024년 12월 24일", "number": "24251160150B" }
   ],
   "experience": [
     "Cloud Computing Instructor at Gyeongbuk Software Meister High School",
