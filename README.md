@@ -4,7 +4,7 @@
 Yu.**
 
 19yo Korean cloud engineer & backend programmer.\
-✉️ mailto:jinseung0327@gmail.com / 🔗 https://wlstmd.cloud
+✉️ mailto:wlstmd@wlstmd.cloud / 🔗 https://wlstmd.cloud
 
 > [!NOTE]
 > @wlstmd runs a tech blog!\
