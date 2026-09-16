@@ -47,11 +47,11 @@ Yu.**
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code Guide](https://blog.wlstmd.cloud/45)
 - [CoreDNS](https://blog.wlstmd.cloud/44)
 - [EKS S3 CSI Driver](https://blog.wlstmd.cloud/43)
 - [Access denied - Delete Apache Flink Table](https://blog.wlstmd.cloud/42)
 - [SSH Connection Error Trouble Shooting](https://blog.wlstmd.cloud/41)
-- [Security Group Unauthorized Inbound Rule Revoke](https://blog.wlstmd.cloud/40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <details>
