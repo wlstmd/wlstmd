@@ -47,11 +47,11 @@ Yu.**
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 모델이 검색을 하는 방법](https://blog.wlstmd.cloud/48)
 - [대칭키와 비대칭키](https://blog.wlstmd.cloud/47)
 - [Jev &lpar;TypeSafe AI의 System One 모델&rpar;](https://blog.wlstmd.cloud/46)
 - [Claude Code Guide](https://blog.wlstmd.cloud/45)
 - [CoreDNS](https://blog.wlstmd.cloud/44)
-- [EKS S3 CSI Driver](https://blog.wlstmd.cloud/43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <details>
