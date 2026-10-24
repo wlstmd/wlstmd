@@ -47,11 +47,11 @@ Yu.**
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Pod EIP Controller로 Pod마다 고유한 공인 IP 부여하기](https://blog.wlstmd.cloud/51)
 - [AI 답변의 정확도를 어떻게 측정할까? LLM 평가&lpar;Evaluation&rpar;의 원리](https://blog.wlstmd.cloud/50)
 - [LLM에게 일을 잘 시키는 법, 프롬프트 엔지니어링](https://blog.wlstmd.cloud/49)
 - [AI 모델이 검색을 하는 방법](https://blog.wlstmd.cloud/48)
 - [대칭키와 비대칭키](https://blog.wlstmd.cloud/47)
-- [Jev &lpar;TypeSafe AI의 System One 모델&rpar;](https://blog.wlstmd.cloud/46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <details>
