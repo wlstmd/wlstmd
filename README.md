@@ -47,11 +47,11 @@ Yu.**
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [비밀번호와 계정을 노리는 대표적인 공격 기법 정리](https://blog.wlstmd.cloud/56)
 - [EKS Fargate에서 Fluent Bit으로 CloudWatch Logs에 로그 수집하기](https://blog.wlstmd.cloud/55)
 - [EKS 노드의 Hostname을 Instance ID 기반으로 변경하기](https://blog.wlstmd.cloud/54)
 - [IPv6 전용 EC2에서 IPv4 주소와 통신하기 &lpar;NAT64&rpar;](https://blog.wlstmd.cloud/53)
 - [RAG란 무엇일까? AI가 외부 문서를 참고해 답변하는 원리](https://blog.wlstmd.cloud/52)
-- [AWS Pod EIP Controller로 Pod마다 고유한 공인 IP 부여하기](https://blog.wlstmd.cloud/51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <details>
